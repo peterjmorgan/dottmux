@@ -1,3 +1,6 @@
 [submodule ".tmux"]
 	path = .tmux
 	url = https://github.com/gpakosz/.tmux
+[submodule "tmux-1password"]
+	path = tmux-1password
+	url = https://github.com/yardnsm/tmux-1password
