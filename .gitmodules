@@ -4,3 +4,6 @@
 [submodule "tmux-1password"]
 	path = tmux-1password
 	url = https://github.com/yardnsm/tmux-1password
+[submodule "tmux-jump"]
+	path = tmux-jump
+	url = https://github.com/schasse/tmux-jump
